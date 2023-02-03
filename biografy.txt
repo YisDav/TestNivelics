@@ -2,3 +2,4 @@ Hola, soy Jesús García.
 Apasionado por el yoga y el voleibol.
 También me gusta trabajar con infrastructura en la nube (AWS, Azure), la programación (backend) y la ciberseguridad (Auditor Certificado ISO 27001).
 ¡Me parece genial poder aprender algo nuevo todos los dias!
+:D
